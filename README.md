@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Clara!
 
-I'm a software developer and currently work at Venture Miner.
 I have 3 years of experience with frontend development, using mainly Angular and Typescript, but I like to explore and delve into new technologies too.
 
 I like to code very faithfully to the proposed layout, supported by good responsiveness, good lighthouse metrics, especially accessibility.
