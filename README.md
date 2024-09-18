@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Clara!
 
-I have 3 years of experience with frontend development, using mainly Angular and Typescript, but I like to explore and delve into new technologies too.
+Frontend Developer with solid experience in Angular 15+, TypeScript, and API integration, having worked on innovative projects involving Web3 and Artificial Intelligence. During my time at Venture Miner, I actively contributed to creating user journeys, implementing efficient interfaces, and conducting unit tests, always striving for high-quality solutions.
 
 I like to code very faithfully to the proposed layout, supported by good responsiveness, good lighthouse metrics, especially accessibility.
 
@@ -12,19 +12,23 @@ My main objectives and goals are to improve my English and advance in seniority,
 
 # 🚀 Expertise
 
-Pedagogue graduated from the Federal University of Rio Grande do Norte (UFRN), in 2019.
-Graduated in Computer Networks from Instituto Metrópole Digital (IMD - UFRN), in 2022.
+I am continuously seeking to enhance my skills and achieve technical excellence, with a strong focus on efficiency, quality, and team collaboration. I work with agile methodologies such as Kanban and Scrum, and I’m always open to new challenges that foster professional growth.
 
-I started my career transition to technology in 2020, where I was able to combine my knowledge in Education for IT. In 2021 I joined BFT Solutions as a Trainee, working with web and mobile software development. In 2022, I started to be part of the Jr developers team, where I participated in the entire software development process, carrying out unit tests, I also had the opportunity to work on the UI/UX part with figma, always focusing on maintaining a better experience for the user.
+Hard Skills:
 
-Main technologies:
+- HTML5, SCSS, JavaScript, Angular 15+
+- Bootstrap, Tailwind, DaisyUI, Material Design
+- TypeScript, Git/GitHub, Yarn, npm
+- Unit testing with Jasmine, Jest, Karma
+- API integration, Web3, Metamask, wagmi, Nx monorepo
+- OpenAI API, Figma
 
-- Angular;
-- Typescript;
-- Bootstrap;
-- Tailwind and DaisyUi;
-- Tests with Jasmine and Jest;
-- Next;
+Soft Skills:
+
+- Focus on efficiency and quality
+- Team collaboration
+- Agile methodologies (Kanban, Scrum)
+- Resilience and continuous learning
 
 # 💻 Tech Stack
 
