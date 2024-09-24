@@ -22,6 +22,11 @@ Hard Skills:
 - Unit testing with Jasmine, Jest, Karma
 - API integration, Web3, Metamask, wagmi, Nx monorepo
 - OpenAI API, Figma
+- SEO
+- Responsive design
+- Implementation of web accessibility practices
+- Experience with Lazy Loading
+- Experience in front-end and back-end integration
 
 Soft Skills:
 
